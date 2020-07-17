@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_g_nci_github_map_1595007750350</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>breml@nih.gov</sys_created_by>
+        <sys_created_on>2020-07-17 17:42:31</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>f6cfb2f11b8a1410fe45ed39bc4bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_g_nci_github_map_1595007750350</sys_name>
+        <sys_package display_value="GitHub Mapping" source="x_g_nci_github_map">c8fef2fd1b4a1410fe45ed39bc4bcbfc</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="GitHub Mapping">c8fef2fd1b4a1410fe45ed39bc4bcbfc</sys_scope>
+        <sys_update_name>ua_table_licensing_config_f6cfb2f11b8a1410fe45ed39bc4bcbe2</sys_update_name>
+        <sys_updated_by>breml@nih.gov</sys_updated_by>
+        <sys_updated_on>2020-07-17 17:42:31</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="mapping" max_length="40" name="x_g_nci_github_map_mapping" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="200" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="GitHub Account Name" max_length="200" name="github_account_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested Item Ticket Number" max_length="40" name="ritm" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>

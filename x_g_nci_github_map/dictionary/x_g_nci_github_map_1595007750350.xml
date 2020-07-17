@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Nci Github Map 1595007750350" max_length="40" name="x_g_nci_github_map_1595007750350" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Email" label="Email" max_length="45" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=GitHubName" label="GitHubName" max_length="40" name="u_githubname" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RITM" label="RITM" max_length="40" name="u_ritm" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="string"/>
+    </element>
+</database>

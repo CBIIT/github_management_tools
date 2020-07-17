@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="578143b51b8a1410fe45ed39bc4bcb47" sys_domain="global" table="x_g_nci_github_map_mapping" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>breml@nih.gov</sys_created_by>
+            <sys_created_on>2020-07-17 17:50:32</sys_created_on>
+            <sys_id>98a1c3b51b8a1410fe45ed39bc4bcb9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_g_nci_github_map_mapping" sys_domain="global" view="Default view">578143b51b8a1410fe45ed39bc4bcb47</sys_ui_section>
+            <sys_updated_by>breml@nih.gov</sys_updated_by>
+            <sys_updated_on>2020-07-17 17:50:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>github_account_name</element>
+            <position>1</position>
+            <sys_created_by>breml@nih.gov</sys_created_by>
+            <sys_created_on>2020-07-17 17:50:32</sys_created_on>
+            <sys_id>10a1c3b51b8a1410fe45ed39bc4bcb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_g_nci_github_map_mapping" sys_domain="global" view="Default view">578143b51b8a1410fe45ed39bc4bcb47</sys_ui_section>
+            <sys_updated_by>breml@nih.gov</sys_updated_by>
+            <sys_updated_on>2020-07-17 17:50:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>2</position>
+            <sys_created_by>breml@nih.gov</sys_created_by>
+            <sys_created_on>2020-07-17 17:50:32</sys_created_on>
+            <sys_id>94a1c3b51b8a1410fe45ed39bc4bcb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_g_nci_github_map_mapping" sys_domain="global" view="Default view">578143b51b8a1410fe45ed39bc4bcb47</sys_ui_section>
+            <sys_updated_by>breml@nih.gov</sys_updated_by>
+            <sys_updated_on>2020-07-17 17:50:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ritm</element>
+            <position>3</position>
+            <sys_created_by>breml@nih.gov</sys_created_by>
+            <sys_created_on>2020-07-17 17:50:32</sys_created_on>
+            <sys_id>1ca1c3b51b8a1410fe45ed39bc4bcb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_g_nci_github_map_mapping" sys_domain="global" view="Default view">578143b51b8a1410fe45ed39bc4bcb47</sys_ui_section>
+            <sys_updated_by>breml@nih.gov</sys_updated_by>
+            <sys_updated_on>2020-07-17 17:50:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_g_nci_github_map_mapping</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>breml@nih.gov</sys_created_by>
+            <sys_created_on>2020-07-17 17:50:11</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>578143b51b8a1410fe45ed39bc4bcb47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_g_nci_github_map_mapping</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="GitHub Mapping" source="x_g_nci_github_map">c8fef2fd1b4a1410fe45ed39bc4bcbfc</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="GitHub Mapping">c8fef2fd1b4a1410fe45ed39bc4bcbfc</sys_scope>
+            <sys_update_name>sys_ui_section_578143b51b8a1410fe45ed39bc4bcb47</sys_update_name>
+            <sys_updated_by>breml@nih.gov</sys_updated_by>
+            <sys_updated_on>2020-07-17 17:50:11</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
